@@ -16,7 +16,7 @@ make init
 bit start
 ```
 
-# Running a particular app (e.g. Everest)
+# Running a particular app
 
 ```bash
 cd apps/<app-name>
