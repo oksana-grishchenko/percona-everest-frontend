@@ -10,7 +10,7 @@ make install-bit
 make init
 ```
 
-# Running Bit with compositions
+# Running Bit  compositions
 
 ```bash
 bit start
