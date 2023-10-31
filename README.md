@@ -10,7 +10,7 @@ make install-bit
 make init
 ```
 
-# Running Bit
+#  Bit
 
 ```bash
 bit start
