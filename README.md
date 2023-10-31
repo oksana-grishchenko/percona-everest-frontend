@@ -16,7 +16,7 @@ make init
 bit start
 ```
 
-# Running a particular app
+# Running a app
 
 ```bash
 cd apps/<app-name>
