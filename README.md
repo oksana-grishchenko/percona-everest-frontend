@@ -23,7 +23,7 @@ cd apps/<app-name>
 make run
 ```
 
-# Run unit tests for app
+# Run unit  for app
 ```bash
 cd apps/<app-name>
 make test
