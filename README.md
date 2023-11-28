@@ -4,7 +4,7 @@
 make install-bit
 ```
 
-# Install dependencies sdfasdf
+# Install sdfasdf
 
 ```bash
 make init
