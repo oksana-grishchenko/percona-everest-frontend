@@ -4,7 +4,7 @@
 make install-bit
 ```
 
-# Install
+# Install dependences
 
 ```bash
 make init
