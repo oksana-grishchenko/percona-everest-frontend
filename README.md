@@ -4,10 +4,10 @@
 make install-bit
 ```
 
-# Install dependences
+# Install
 
 ```bash
-make init
+make inisdfsdfst
 ```
 
 # Running Bit with
